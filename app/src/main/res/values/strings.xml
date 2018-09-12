@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ZipCode</string>
+    <string name="lb_code">Code</string>
+    <string name="lb_city">City</string>
+    <string name="lb_clr">Clear</string>
+    <string name="lb_seek">Search</string>
+    <string name="next">Next</string>
+</resources>
